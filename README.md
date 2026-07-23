@@ -1,4 +1,6 @@
 # ferretbluess
 
 Desarrollador Web
-Profesional
+Profesional.
+
+Version 1.3
